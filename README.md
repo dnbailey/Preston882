@@ -1,16 +1,29 @@
-### Hi there 👋
+## Welcome to Preston Ware's Portfolio
 
-<!--
-**Preston882/Preston882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here I as a developer will post my completed tasks throughout this semester, I plan to strive for excellence in these tasks and grow not only in a learning process but in my developing skills as a person.
 
-Here are some ideas to get you started:
+### Coding for GitPages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below is "Markdown" which means you can put certain text in a blacked out box.
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### Jekyll Themes
+
+I decided to choose my theme to be "Hacker" from Jekyll. This theme suits me as a person but is also comfortable on the eyes.
