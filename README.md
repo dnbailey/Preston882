@@ -9,7 +9,7 @@
 }
 </style>
         </head>
-        
+        <body>
                 
 <div class="center">
         <h1>Hi👋 my name is Preston Ware, I am a Developer at Dobyns-Bennett High School in Kingsport, Tennessee!</h1>
@@ -31,4 +31,5 @@
         Degree in Computer Science at East Tennessee State University, landing a
         job in the Technological industry, and creating a software that will
         better the worldwide programming environment.</p>
+</body>
 </html>
