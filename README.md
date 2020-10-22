@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-        <style>
-.center {
-  margin: auto;
-  width: 60%;
-  border: 3px solid #73AD21;
-  padding: 10px;
-}
-</style>
-        </head>
-        <body>
-                
-<div class="center">
+<div align="center">
         <h1>Hi👋 my name is Preston Ware, I am a Developer at Dobyns-Bennett High School in Kingsport, Tennessee!</h1>
         </div>
 <p> I was originally born in Pennsylvania, however, I moved to Tennessee at
@@ -32,5 +18,3 @@
         Degree in Computer Science at East Tennessee State University, landing a
         job in the Technological industry, and creating a software that will
         better the worldwide programming environment.</p>
-</body>
-</html>
